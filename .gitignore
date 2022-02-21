@@ -83,3 +83,7 @@ models/*.thneed
 build/
 
 !**/.gitkeep
+selfdrive/car/hyundai/hyundaican.py
+selfdrive/car/hyundai/hyundaican.py
+*.py
+selfdrive/car/hyundai/hyundaican.py
